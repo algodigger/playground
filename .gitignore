@@ -1,2 +1,8 @@
-mlruns/*
-mlartifacts/*
+**/mlruns/
+**/mlartifacts/
+
+**/experiments/
+**/ColBERT/
+
+
+**/vit-base-beans/
